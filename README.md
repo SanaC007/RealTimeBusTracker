@@ -4,4 +4,11 @@
 This code sample demonstrates how to track public buses in real-time using MBTA API.
 
 ## Setup
-Clone this project or download it.
+
+Follow these instructions to run this code locally:
+
+1. run `git clone` this repository
+1. `cd` into the project's directory
+1. open mapanimation.js and replace api_key with your own mbta api key
+
+That will get the code running on your browser
