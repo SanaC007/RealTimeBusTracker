@@ -12,3 +12,8 @@ Follow these instructions to run this code locally:
 1. open mapanimation.js and replace api_key with your own mbta api key
 
 That will get the code running on your browser
+
+## License
+
+This sample is licensed under the terms of the MIT License.
+Please see the [LICENSE](LICENSE) file for full details.
