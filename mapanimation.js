@@ -1,5 +1,3 @@
-
-
 var map;
 var markers = [];
 
@@ -57,9 +55,6 @@ function addMarker(bus){
 	});
 	markers.push(marker);
 }
-
-
-
 
 function getIcon(bus){
 	// select icon based on bus direction
